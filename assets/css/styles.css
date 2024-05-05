@@ -520,23 +520,23 @@ img {
 }
 
 .skills__js {
-  width: 50%;
+  width: 80%;
 }
 
 .skills__php {
-  width: 70%;
+  width: 85%;
 }
 
-.skills__mysql {
+.skills__vue_js {
   width: 70%;
 }
 
 .skills__laravel {
-  width: 75%;
+  width: 85%;
 }
 
 .skills__codeigniter {
-  width: 60%;
+  width: 80%;
 }
 
 .skills__close .skills__list {
