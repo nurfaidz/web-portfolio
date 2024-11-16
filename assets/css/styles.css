@@ -527,7 +527,7 @@ img {
   width: 85%;
 }
 
-.skills__vue_js {
+.skills__react_native {
   width: 70%;
 }
 
@@ -814,6 +814,7 @@ img {
 .project__img {
   width: 232px;
   justify-self: center;
+  object-fit: cover;
 }
 
 /*==================== TESTIMONIAL ====================*/
